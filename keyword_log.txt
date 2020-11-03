@@ -1,0 +1,48 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+The user query is  My child is sick where can he get measles vaccine  Please go to khandala
+The extracted tokens are  {'Disease 1': ['measles'], 'Disease 2': ['measles'], 'Keyword': ['child', 'measles'], 'Other -condition, symptom etc': ['sick', 'child'], 'Subject - Person': ['child'], 'Vaccine 1': ['measles'], 'Vaccine 2': ['measles'], 'Who is writing this': ['child']}
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+The user query is  My child is sick where can he get rubella vaccine  Please go to khandala
+The extracted tokens are  {'Disease 1': ['rubella'], 'Disease 2': ['rubella'], 'Keyword': ['child'], 'Other -condition, symptom etc': ['sick', 'child'], 'Subject - Person': ['child'], 'Vaccine 1': ['rubella'], 'Vaccine 2': ['rubella'], 'Who is writing this': ['child']}
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+The user query is  My child is sick where can he get polio vaccine  Please go to khandala
+The extracted tokens are  {'Disease 2': ['polio'], 'Keyword': ['child'], 'Other -condition, symptom etc': ['sick', 'child'], 'Subject - Person': ['child'], 'Vaccine 1': ['polio'], 'Vaccine 2': ['polio'], 'Who is writing this': ['child']}
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+The user query is  My child is sick where can he get measles vaccine  Please go to khandala
+The extracted tokens are  {'Disease 1': ['measles'], 'Disease 2': ['measles'], 'Keyword': ['child', 'measles'], 'Other -condition, symptom etc': ['sick', 'child'], 'Subject - Person': ['child'], 'Vaccine 1': ['measles'], 'Vaccine 2': ['measles'], 'Who is writing this': ['child']}
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+The user query is  My child is sick where can he get rubella vaccine  Please go to khandala
+The extracted tokens are  {'Disease 1': ['rubella'], 'Disease 2': ['rubella'], 'Keyword': ['child'], 'Other -condition, symptom etc': ['sick', 'child'], 'Subject - Person': ['child'], 'Vaccine 1': ['rubella'], 'Vaccine 2': ['rubella'], 'Who is writing this': ['child']}
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+The user query is  My child is sick where can he get polio vaccine  Please go to khandala
+The extracted tokens are  {'Disease 2': ['polio'], 'Keyword': ['child'], 'Other -condition, symptom etc': ['sick', 'child'], 'Subject - Person': ['child'], 'Vaccine 1': ['polio'], 'Vaccine 2': ['polio'], 'Who is writing this': ['child']}
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+The user query is  My child is sick where can he get measles vaccine  Please go to khandala
+The extracted tokens are  {'Disease 1': ['measles'], 'Disease 2': ['measles'], 'Keyword': ['child', 'measles'], 'Other -condition, symptom etc': ['sick', 'child'], 'Subject - Person': ['child'], 'Vaccine 1': ['measles'], 'Vaccine 2': ['measles'], 'Who is writing this': ['child']}
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+The user query is  My child is sick where can he get rubella vaccine  Please go to khandala
+The extracted tokens are  {'Disease 1': ['rubella'], 'Disease 2': ['rubella'], 'Keyword': ['child'], 'Other -condition, symptom etc': ['sick', 'child'], 'Subject - Person': ['child'], 'Vaccine 1': ['rubella'], 'Vaccine 2': ['rubella'], 'Who is writing this': ['child']}
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+The user query is  My child is sick where can he get polio vaccine  Please go to khandala
+The extracted tokens are  {'Disease 2': ['polio'], 'Keyword': ['child'], 'Other -condition, symptom etc': ['sick', 'child'], 'Subject - Person': ['child'], 'Vaccine 1': ['polio'], 'Vaccine 2': ['polio'], 'Who is writing this': ['child']}
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+The user query is  My child is sick where can he get measles vaccine  Please go to khandala
+The extracted tokens are  {'Disease 1': ['measles'], 'Disease 2': ['measles'], 'Keyword': ['child', 'measles'], 'Other -condition, symptom etc': ['sick', 'child'], 'Subject - Person': ['child'], 'Vaccine 1': ['measles'], 'Vaccine 2': ['measles'], 'Who is writing this': ['child']}
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+The user query is  My child is sick where can he get rubella vaccine  Please go to khandala
+The extracted tokens are  {'Disease 1': ['rubella'], 'Disease 2': ['rubella'], 'Keyword': ['child'], 'Other -condition, symptom etc': ['sick', 'child'], 'Subject - Person': ['child'], 'Vaccine 1': ['rubella'], 'Vaccine 2': ['rubella'], 'Who is writing this': ['child']}
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+The user query is  My child is sick where can he get polio vaccine  Please go to khandala
+The extracted tokens are  {'Disease 2': ['polio'], 'Keyword': ['child'], 'Other -condition, symptom etc': ['sick', 'child'], 'Subject - Person': ['child'], 'Vaccine 1': ['polio'], 'Vaccine 2': ['polio'], 'Who is writing this': ['child']}
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$

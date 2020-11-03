@@ -4,6 +4,7 @@ from django.contrib import admin
 
 from welcome.views import index, health
 from keyword_engine.views import index as index_custom
+from keyword_engine.views import extract_keywords
 
 urlpatterns = [
     # Examples:
@@ -12,8 +13,9 @@ urlpatterns = [
 
     url(r'^$', index),
     url(r'^health$', health),
-    url(r'^admin/', include(admin.site.urls)),
-    url(r'^custom$', index_custom, name='index_custom'),
+    # url(r'^admin/', include(admin.site.urls)),
+    url(r'^custom$', index_custom),
+    url(r'^extract-keywords', extract_keywords),
 ]
 
 if settings.DEBUG:
